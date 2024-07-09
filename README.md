@@ -51,6 +51,12 @@
   - 🛠 **Tech Stack**: Python
   - 🌟 **Description**: Solving Sudoku puzzles using the Backtracking Algorithm.
 
+- **Project 02: [Telegram Chatbot](https://github.com/whyvineet/telegram-bot)**
+
+  - 🛠 **Tech Stack**: Python, python-telegram-bot, python-dotenv
+  - 🌟 **Description**: A Telegram chatbot that responds to the `/start` command with a greeting message and will be integrated with the Gemini API to answer user queries in the future.
+
+
 ---
 
 <h3 align="center">📫 How to reach me: <a href="mailto:whyvineet@outlook.com">whyvineet@outlook.com</a></h3>
