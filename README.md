@@ -65,12 +65,9 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/whyvineet">
     <img src="https://github-readme-stats.vercel.app/api?username=whyvineet&show_icons=true&theme=radical" alt="Vineet Kumar's GitHub stats" />
-  </a>
-  <a href="https://github.com/whyvineet">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=whyvineet&theme=radical" alt="Vineet Kumar's GitHub Streak" />
   </a>
 </div>
 
