@@ -53,10 +53,10 @@
   - 🛠 **Tech Stack**: HTML, CSS, JavaScript
   - 🌟 **Description**: Developed a static portfolio website using HTML, CSS, and JavaScript to showcase my skills and projects. It features an overview of my experience, projects, and contact information.
 
-- **Project 02: [Telegram Chatbot](https://github.com/whyvineet/telegram-bot)**
+- **Project 02: [QueryGenie](https://github.com/whyvineet/QueryGenie)**
 
   - 🛠 **Tech Stack**: Python
-  - 🌟 **Description**: This Telegram chatbot is integrated with the Gemini API, currently in development, greets users with the `/start` command and responds to user queries using the `/chat {user_prompt}` command.
+  - 🌟 **Description**: This Telegram chatbot is integrated with the Gemini API, currently in development, greets users with the `/start` command and responds intelligently to user queries.
 
 ---
 
