@@ -60,6 +60,12 @@
 
 ---
 
+### 🍂 Hacktoberfest 2024
+
+[![An image of @whyvineet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whyvineet)](https://holopin.io/@whyvineet)
+
+---
+
 <h3 align="center">📫 How to reach me: <a href="mailto:whyvineet@outlook.com">whyvineet@outlook.com</a></h3>
 
 ---
