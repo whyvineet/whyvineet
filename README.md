@@ -39,11 +39,11 @@ skills = {
 
 1. **Portfolio Showcase** 
    - *A digital canvas of my adventures in code*
-   - [Explore the Realm](https://github.com/whyvineet/portfolio)
+   - [Explore the Realm](https://whyvineet.xyz)
 
 2. **QueryGenie**
    - *A mystical Telegram bot powered by Gemini API*
-   - [Summon the Genie](https://github.com/whyvineet/QueryGenie)
+   - [Summon the Genie](https://t.me/QueryGenie_Bot)
 
 ### 📊 Quest Log Stats
 
