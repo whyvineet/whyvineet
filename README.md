@@ -20,8 +20,7 @@ I'm **Vineet** - that's it. Nothing more, nothing less!
 
 ### Would you like to see some projects?
 
-1. **[Auralytics]()** *(Coming Soon!)*
-   Currently, the repository is private, but I'll make it public soon. Here's a sneak peek: Auralytics analyzes video introductions and provides feedback based on confidence level, tone, and spoken content!
+[Visit here](https://github.com/whyvineet?tab=repositories)
 
 ---
 
