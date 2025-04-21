@@ -4,8 +4,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/whyvineet/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/whyvineet)
+[![Website](https://img.shields.io/badge/Website-whyvineet.xyz-E4405F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://whyvineet.xyz)
 <img src="https://komarev.com/ghpvc/?username=whyvineet&color=blueviolet&style=for-the-badge" alt="Profile Views">
 
 </div>
