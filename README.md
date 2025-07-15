@@ -37,12 +37,6 @@ Have a project idea, a tech query, or want to say hi? Reach me at: **[whyvineet@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="Coding GIF">
-</div>
-
----
-
 <p align="center">
   <em>"If the story didn’t end the way you thought, the story isn’t over yet." – Vineet</em>
 </p>
