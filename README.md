@@ -4,7 +4,6 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-whyvineet.xyz-E4405F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://whyvineet.xyz)
 <img src="https://komarev.com/ghpvc/?username=whyvineet&color=blueviolet&style=for-the-badge" alt="Profile Views">
 
 </div>
@@ -14,12 +13,6 @@
 ### Hello, Lurker! 👋
 
 I'm **Vineet** - that's it. Nothing more, nothing less!
-
----
-
-### Would you like to see some projects?
-
-[Visit here](https://github.com/whyvineet?tab=repositories)
 
 ---
 
