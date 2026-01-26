@@ -1,36 +1,22 @@
-<div align="center">
-    <h1>Vineet Kumar | The Normal One</h1>
-</div>
+# Vineet Kumar
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=whyvineet&color=blueviolet&style=for-the-badge" alt="Profile Views">
-
-</div>
+*AI / Backend Engineer — Building LLM-powered systems*
 
 ---
 
-### Hello, Lurker! 👋
+I design and build backend systems and LLM-powered applications with a focus on
+clarity, scalability, and real-world engineering trade-offs.
 
-I'm **Vineet** - that's it. Nothing more, nothing less!
-
----
-
-### Published Articles
-
-I enjoy writing about tech topics and sharing insights. Check out my latest articles on GeeksforGeeks:
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/whyvineet/contributions/)
+I value clean architecture, thoughtful abstractions, and systems that age well.
+I also write technical articles on programming and software engineering, with an
+emphasis on practical implementation over theory.
 
 ---
 
-### Let's Connect
+## Links
 
-Have a project idea, a tech query, or want to say hi? Reach me at: **[whyvineet@outlook.com](mailto:whyvineet@outlook.com)**
+<div align="center"><b><a href="https://whyvineet.vercel.app">Portfolio</a></b>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="mailto:whyvineet@outlook.com">Email</a></b>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="https://www.geeksforgeeks.org/user/whyvineet/contributions/">Articles</a></b></div>
 
 ---
 
-<p align="center">
-  <em>"If the story didn’t end the way you thought, the story isn’t over yet." – Vineet</em>
-</p>
-
+> *Building systems is a journey — it never really finishes.*
