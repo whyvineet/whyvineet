@@ -19,4 +19,4 @@ emphasis on practical implementation over theory.
 
 ---
 
-> *Building systems is a journey — it never really finishes.*
+> *Building systems is a journey... it never really finishes.*
